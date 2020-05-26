@@ -23,4 +23,4 @@ Before to run this comand, run "npm run build" in other console to generate a bu
 
 ### `electron-packager .`
 
-This will generate a package with all files, and can be used to execute our app. 
+This will generate a package with all files, and can be used to execute our app. Before to run this comand, run "npm run build" in other console.
